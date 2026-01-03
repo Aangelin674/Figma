@@ -121,9 +121,7 @@ Select the specific frame while generating code using Anima plugin.
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-30 175855-1.png>)
-![alt text](<Screenshot 2025-12-30 180019.png>)
-![alt text](<Screenshot 2025-12-30 180138.png>)
+![alt text](<Screenshot 2026-01-03 180254.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration using Figma UI tool is completed successfully.
