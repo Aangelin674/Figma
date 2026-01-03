@@ -34,6 +34,7 @@ Link frames to show navigation or interactions.
 Select the specific frame while generating code using Anima plugin.
 
 ## CODE:
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -118,7 +119,7 @@ Select the specific frame while generating code using Anima plugin.
     </div>
   </body>
 </html>
-
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2026-01-03 180254.png>)
